@@ -1,1 +1,28 @@
 theme: charlolamode
+title: Alec Burton
+menu:
+    main:
+        - name: Contact
+          url: /contact/
+          weight: 30
+        - name: Articles
+          url: /articles/
+          weight: 20
+        - name: Experience
+          url: /experience/
+          weight: 15
+params:
+  profileMode:
+    title: Alec Burton
+    description: |
+
+          Senior Software Engineer 
+        
+
+          Specialising in Java and Spring
+  
+  socialIcons:
+      - name: github
+        url: "https://github.com/abert-on"
+      - name: linkedin
+        url: "https://www.linkedin.com/in/alec-burton-51190434/"
