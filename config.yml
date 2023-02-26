@@ -20,6 +20,8 @@ params:
         
 
           Specialising in Java and Spring
+    
+    buttons:
   
   socialIcons:
       - name: github
