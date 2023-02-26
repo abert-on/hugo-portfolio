@@ -22,6 +22,10 @@ params:
           Specialising in Java and Spring
     
     buttons:
+      - name: Experience
+        url: /experience
+      - name: Articles
+        url: /articles
   
   socialIcons:
       - name: github
